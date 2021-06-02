@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on vk.com bot.
 - 🌱 I’m currently learning Swift, Rust and php.
-- 👯 I’m looking to collaborate on Youtube.
+- 👯 I’m looking to collaborate on [Telegram](https://t.me/haxonate).
 - 🤔 I’m looking for help with vk.api documentation.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me:  Twitter-[@Haxonate](https://twitter.com/haxonate) Telegram-[@Haxonate](https://t.me/haxonate)
