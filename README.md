@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me:  Twitter - @imthepk , Telegram - @mtechviral
+- 📫 How to reach me:  Twitter - @Haxonate , Telegram - @Haxonate
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I'm listening songns every second.
 -->
