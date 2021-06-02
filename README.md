@@ -8,6 +8,5 @@
 - 📫 How to reach me:  Twitter-[@Haxonate](https://twitter.com/haxonate) Telegram-[@Haxonate](https://t.me/haxonate)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm listening songns every second.
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=haxonate&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
