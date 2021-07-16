@@ -1,5 +1,6 @@
 ### Hi, I'm Karen Mkhitarian 👋
 
+- 💻 I'm macOS and ArchLinux user.
 - 🔭 I’m currently working on vk.com bot.
 - 🌱 I’m currently learning Swift, Rust and php.
 - 👯 I’m looking to collaborate on [Telegram](https://t.me/haxonate).
