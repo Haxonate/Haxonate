@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I'm heartbroken.
 
 <img src="https://github-readme-stats.vercel.app/api?username=haxonate&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxonate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=haxonate&repo=autoshop"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=haxonate&repo=nakrutka-bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=haxonate&repo=eye-of-god">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=haxonate&repo=nakrutka-bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=haxonate&repo=eye-of-god">
