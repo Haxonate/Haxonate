@@ -1,6 +1,6 @@
 ### Hi, I'm Karen Mkhitarian 👋
 
-- 💻 I'm macOS Big Sur user.
+- 💻 I'm macOS Monterey user.
 - 🔭 I’m currently working on my own ios app.
 - 🌱 I’m currently learning Swift, Rust and php.
 - 👯 I’m looking to collaborate on [Telegram](https://t.me/haxonate).
